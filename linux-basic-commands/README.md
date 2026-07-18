@@ -14,7 +14,7 @@ The `cd ~` command changes the current working directory to the user's home dire
 
 ### Screenshot
 
-![cd home command](screenshots/Screenshot%202026-06-18%20124838.png)
+![cd home command](images/Screenshot%202026-06-18%20124838.png)
 
 ---
 
@@ -26,7 +26,7 @@ The `mkdir` command is used to create directories. In this lab, a directory name
 
 ### Screenshot
 
-![mkdir command](screenshots/Screenshot%202026-06-18%20124854.png)
+![mkdir command](images/Screenshot%202026-06-18%20124854.png)
 
 ---
 
@@ -38,7 +38,7 @@ The `cd` command is used to change directories and move through the Linux file s
 
 ### Screenshot
 
-![cd command](screenshots/Screenshot%202026-06-18%20104701.png)
+![cd command](images/Screenshot%202026-06-18%20104701.png)
 
 ---
 
@@ -50,7 +50,7 @@ The `pwd` (Print Working Directory) command displays the full path of the curren
 
 ### Screenshot
 
-![pwd command](screenshots/Screenshot%202026-06-18%20115855.png)
+![pwd command](images/Screenshot%202026-06-18%20115855.png)
 
 ---
 
@@ -62,7 +62,7 @@ The `touch` command creates new empty files. In this lab, three empty files were
 
 ### Screenshot
 
-![touch command](screenshots/Screenshot%202026-06-18%20115914.png)
+![touch command](images/Screenshot%202026-06-18%20115914.png)
 
 ---
 
@@ -74,7 +74,7 @@ The `ls` command lists files and directories in the current directory.
 
 ### Screenshot
 
-![ls command](screenshots/Screenshot%202026-06-18%20115927.png)
+![ls command](images/Screenshot%202026-06-18%20115927.png)
 
 ---
 
@@ -86,9 +86,9 @@ The `ls -l` command displays files and directories in a detailed format, includi
 
 ### Screenshot
 
-![ls -l command](screenshots/Screenshot%202026-06-18%20115950.png)
+![ls -l command](images/Screenshot%202026-06-18%20115950.png)
 
-![ls -l command](screenshots/Screenshot%202026-06-18%20120012.png)
+![ls -l command](images/Screenshot%202026-06-18%20120012.png)
 
 ---
 
@@ -100,7 +100,7 @@ This command writes the text `"I love cyber security"` into a file named `notes.
 
 ### Screenshot
 
-![echo command](screenshots/Screenshot%202026-06-18%20120025.png)
+![echo command](images/Screenshot%202026-06-18%20120025.png)
 
 ---
 
@@ -112,7 +112,7 @@ The `cat` command displays the contents of a file in the terminal. In this lab, 
 
 ### Screenshot
 
-![cat command](screenshots/Screenshot%202026-06-18%20120037.png)
+![cat command](images/Screenshot%202026-06-18%20120037.png)
 
 ---
 
@@ -124,7 +124,7 @@ This command appends the text `"python is the best programming language"` to the
 
 ### Screenshot
 
-![echo append command](screenshots/Screenshot%202026-06-18%20120144.png)
+![echo append command](images/Screenshot%202026-06-18%20120144.png)
 
 ---
 
@@ -136,7 +136,7 @@ After appending additional text to the file, the `cat` command was used again to
 
 ### Screenshot
 
-![cat command](screenshots/Screenshot%202026-06-18%20120157.png)
+![cat command](images/Screenshot%202026-06-18%20120157.png)
 
 ---
 
