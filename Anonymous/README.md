@@ -176,7 +176,7 @@ else
 fi
 ```
 
-![Original clean.sh](image/pa.png)
+![Original clean.sh](images/pa.png)
 
 Since the **scripts** directory was writable through anonymous FTP, I realized I could replace the original cleanup script with my own code. The system was executing this script automatically, making it an ideal opportunity to gain remote code execution.
 
