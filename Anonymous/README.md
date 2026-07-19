@@ -146,7 +146,7 @@ fi
 
 Since the script was writable through FTP, it became a potential attack vector.
 
-![clean.sh](images/pa5.png)
+![clean.sh](images/pa12.png)
 
 ---
 
