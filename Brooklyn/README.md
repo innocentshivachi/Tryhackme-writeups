@@ -1,6 +1,7 @@
+# TryHackMe - Brooklyn Nine-Nine Write-up
+
 ![Brooklyn Nine-Nine](images/bro.jpg)
 
-# TryHackMe - Brooklyn Nine-Nine Write-up
 
 ## Room Information
 
